@@ -1,0 +1,2 @@
+item_id,parent_id,category,name,part_number,revision,quantity,unit,manufacturer,manufacturer_part_number,source_url,alternative_item_ids,notes
+OA150-FC-001,,flight-controller,MicoAir743,,,1,pcs,MicoAir,MicoAir743,https://micoair.com/zh/products/micoair743,,Off-the-shelf module; planned quantity; hardware revision and installed firmware pending confirmation

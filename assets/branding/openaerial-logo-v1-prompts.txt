@@ -1,0 +1,26 @@
+OpenAerial logo v1
+Generation mode: built-in image_gen
+
+Primary transparent logo
+
+Use case: logo-brand
+Asset type: primary logo for OpenAerial, an open-source aerial intelligence infrastructure project, used on GitHub, research documentation, and a project website.
+Primary request: Design one distinctive, beautifully resolved professional logo: an abstract OA monogram symbol alongside the exact wordmark "OpenAerial". The brand makes intelligent aerial robotics accessible to developers, researchers and universities, connecting hardware, autonomy, simulation, training and deployment.
+Symbol concept: a bold open circular O integrated with a simple upward-reaching A / flight-path shape using deliberate negative space. The mark should suggest open access and controlled aerial movement. Resolve these into ONE memorable coherent silhouette rather than several overlapping symbols. Confident geometric construction, excellent optical balance, strong open counterspaces, recognizable at favicon scale.
+Style/medium: flat vector-like identity artwork with extremely clean crisp edges and solid fills. Quiet, precise, contemporary research infrastructure character. One restrained high-contrast ink color for the entire logo, suitable for placement on light backgrounds; the same silhouette should work in monochrome.
+Composition: one horizontal master logo, icon on the left and wordmark on the right, optically balanced baseline and generous clear space, cropped reasonably close while leaving safe padding. Single logo only, no presentation board or variants.
+Text (verbatim): "OpenAerial" with capital O and capital A, no space. Elegant readable medium-weight contemporary sans-serif, carefully kerned; no tagline and no other text.
+Background: actual transparent alpha, all empty areas transparent.
+Constraints: original design, minimal and scalable, no stock drone drawing, no four-propeller clipart, no circuit traces, no neural-network nodes, no globe, no decorative orbit trails, no gradients, no shadows, no glow, no bevels, no 3D, no mockups, no watermark.
+
+White-background preview edit
+
+Use case: background-extraction / logo-brand presentation
+Input image 1 is the exact edit target, the finished OpenAerial master logo.
+Make one change only: composite this exact transparent master logo onto a solid pure white background so its dark ink is easily visible in a chat preview. Preserve the icon geometry, OpenAerial lettering, proportions, positioning and ink color exactly. Preserve the original wide horizontal framing. No new text, no new symbols, no mockup, no shadow, no texture. All existing transparent areas become pure white. This is a faithful preview of the supplied logo, not a redesign.
+
+Standalone transparent icon edit
+
+Use case: precise-object-edit / logo-brand
+Input image 1 is the exact edit target, the finished OpenAerial master logo.
+Create a standalone square icon asset by retaining ONLY the existing symbol at the left of the supplied master logo. Remove the OpenAerial wordmark entirely. Preserve the exact open-circle O and upward A / chevron symbol design, proportions, flat dark ink color, and all negative spaces. Center the isolated unchanged mark in a square canvas, occupying approximately 74 percent of the width and height, with equal optical margins, suitable for a GitHub avatar. Actual transparent alpha background. No new text, no new shapes, no background plate, no redesign, no shadow, no gradients.

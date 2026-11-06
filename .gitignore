@@ -1,0 +1,30 @@
+# Operating system
+.DS_Store
+Thumbs.db
+Desktop.ini
+
+# Local environment
+.venv/
+venv/
+.env
+.env.*
+!.env.example
+
+# Generated code and build output
+__pycache__/
+*.py[cod]
+.pytest_cache/
+node_modules/
+build/
+_build/
+install/
+dist/
+.cache/
+
+# Temporary files
+*.tmp
+*.swp
+~$*
+
+# CAD sources, exports, BOMs, reports and small examples are intentionally
+# not ignored. Configure large-file handling per actual asset.

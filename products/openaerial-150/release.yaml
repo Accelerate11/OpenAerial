@@ -1,0 +1,35 @@
+# 草稿模板，不代表已发布或已验证。Draft; not a released or validated product.
+# 相对路径基准 / Paths are relative to: products/openaerial-150/
+schema_version: 1
+
+product:
+  id: openaerial-150
+  name: OpenAerial 150
+
+release:
+  version: null
+  status: draft
+  date: null
+  source_ref: null
+
+hardware:
+  mechanical_revision: null
+  board_revisions: []
+  purchased_modules:
+    - id: OA150-FC-001
+      role: flight-controller
+      manufacturer: MicoAir
+      model: MicoAir743
+      revision: null
+      quantity: 1
+      source_url: https://micoair.com/zh/products/micoair743
+      documentation: electronics/flight-controller/README.md
+  bom: bom/bom.csv
+
+configurations: []
+dependencies: []
+artifacts: []
+
+validation:
+  status: not-started
+  reports: []
