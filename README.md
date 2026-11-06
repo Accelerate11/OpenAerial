@@ -1,4 +1,5 @@
 # OpenAerial
+<img width="2172" height="724" alt="exec-513daa3f-c164-4f1d-bd62-7384a5e6abf8" src="https://github.com/user-attachments/assets/265ce71a-8681-43bf-b85e-e498ec00e06a" />
 
 
 ## OpenAerial Intelligence 
